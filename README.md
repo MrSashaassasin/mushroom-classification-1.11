@@ -22,7 +22,7 @@
 
 | Модель (Run Name) | F1-Score (Val) | Recall (Val) | Accuracy (Val) | ROC-AUC (Val) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Random Forest (GridSearchCV)** 🏆 | **1.0000** | **1.0000** | **1.0000** | **1.0000** |
+| **Random Forest (GridSearchCV)**  | **1.0000** | **1.0000** | **1.0000** | **1.0000** |
 | **Gradient Boosting** | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
 | **Random Forest (Default)** | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
 | **Decision Tree** | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
